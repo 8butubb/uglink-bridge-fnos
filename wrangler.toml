@@ -3,9 +3,9 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = ""
-PORT = ""
-USERNAME = ""
+BASE_URL = "https://butubb.cn60.ug.link/"
+PORT = "29999"
+USERNAME = "skn"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
